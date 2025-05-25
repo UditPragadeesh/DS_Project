@@ -1,10 +1,10 @@
 import pandas as pd
 import sqlite3 as sql
 
-providers = pd.read_csv('Pages\providers_data.csv')
-receivers = pd.read_csv('Pages\sreceivers_data.csv')
-claims = pd.read_csv('Pages\claims_data.csv')
-foodlistings = pd.read_csv('Pages\sfood_listings_data.csv')
+providers = pd.read_csv(r'Pages\providers_data.csv')
+receivers = pd.read_csv(r'Pages\receivers_data.csv')
+claims = pd.read_csv(r'Pages\claims_data.csv')
+foodlistings = pd.read_csv(r'Pages\food_listings_data.csv')
 
 #Dates to date time data type
 foodlistings['Expiry_Date'] = pd.to_datetime(foodlistings['Expiry_Date'])
