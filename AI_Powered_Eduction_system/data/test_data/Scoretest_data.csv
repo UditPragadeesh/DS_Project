@@ -1,0 +1,23 @@
+Student_ID,skill,Test_ID,Type,Days_prepared,TimeTaken
+10,m-measurement,81,checkboxquestion,63,73
+10,m-measurement,80,algebra,55,116
+10,m-measurement,26,interfaceradioquestion,31,32
+10,m-measurement,16,interfacepopupmenuquestion1,48,36
+10,m-measurement,40,algebrafieldquestion1,33,41
+10,m-measurement,41,radioquestion,29,60
+10,m-measurement,54,interfacetextfieldquestion,6,73
+15,application: order of operations,55,checkboxquestion,42,35
+15,application: order of operations,67,textfieldquestion,56,63
+15,application: order of operations,34,noprobtype,38,51
+15,application: order of operations,88,interfacepopupmenuquestion1,55,88
+15,application: order of operations,20,other,64,97
+100,supplementary-angles,30,popupmenuquestion,62,66
+100,supplementary-angles,36,checkboxquestion,56,109
+100,supplementary-angles,83,interfaceradioquestion,27,74
+100,supplementary-angles,39,checkboxquestion,71,91
+5543,application: compare expressions,30,popupmenuquestion,36,60
+5543,application: compare expressions,28,noprobtype,28,113
+5543,application: compare expressions,59,textfieldquestion,28,46
+5543,application: compare expressions,11,textfieldquestion,36,66
+5543,application: compare expressions,97,interfaceradioquestion,40,68
+5543,application: compare expressions,75,textfieldquestion,8,118
