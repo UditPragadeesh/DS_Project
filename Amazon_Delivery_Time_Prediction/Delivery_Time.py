@@ -51,7 +51,6 @@ if pred_type == 'Single Prediction':
             data_df = pd.concat([sample_df,pd.DataFrame([req_data])],ignore_index=True)
             Result = pipe.predict(data_df).round().astype(int)
             st.markdown(f"Delivery time is :\n <h1 style='font-size:32px;'>{Result[1]} hours</h1> ",unsafe_allow_html=True)
-            st.balloons()
             if st.button('OK'):
                 st.session_state.pred_bt = False
         except Exception as e:
