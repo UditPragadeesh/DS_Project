@@ -88,7 +88,7 @@ if pred_type == 'Multiple Prediction':
                         data_df['Delivery_Time'] = y
                         st.write(data_df)
                         csv = data_df.to_csv(index=False).encode('utf-8')
-                        st.download_button('Download table as csv',data = csv, file_name='Predicted_scores.csv',key='download')
+                        st.download_button('Download table as csv',data = csv, file_name='Predicted_Delivery_Time.csv',key='download')
                 except Exception as e:
                     st.error(f'Error predicting Delivery Time:{e}')
         except Exception as e:
