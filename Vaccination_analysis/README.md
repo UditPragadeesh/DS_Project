@@ -15,15 +15,13 @@
 
 ## Images
 ![Page1](Page1.PNG)
-![Page1](./Page1.PNG)
-![Page1](DS_Project/Vaccination_analysis/Page1.PNG)
-<img src="DS_Project/Vaccination_analysis/Page1.PNG" alt="Alt text" width="300"/>
+![Page1](Page2.PNG)
     
 # Hi, I'm Udit Pragadeesh! 👋
 
 
 ## 🚀 About Me
-Aspiring Data scientist with a background in aeronautical engineering and 2 years’ experience as a design engineer in a manufacturing industry. Skilled in Python programming for machine learning and deep learning. Motivated to apply analytical and problem-solving skills in real-world business challenges. 
+Data scientist with an engineering degree (BE) and 2 years’ experience as a design engineer in a manufacturing industry. Skilled in Python programming for machine learning and deep learning. Motivated to apply analytical and problem-solving skills in real-world business challenges.
 
 ## 🛠 Skills
  Python, PyTorch, SQL, Scikit-learn, Matplotlib, MLflow, Seaborn,Power BI, MS Office: Excel, Word, PowerPoint, Six sigma, Problem Solving
