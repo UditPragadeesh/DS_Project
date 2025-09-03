@@ -14,7 +14,7 @@
     - Power BI - Dashboard preparation
 
 ## Images
-    ![Alt text](Page1.png)
+    ![Alt text](Page1.PNG)
     ![Alt text](Page2.png)
     
 # Hi, I'm Udit Pragadeesh! 👋
