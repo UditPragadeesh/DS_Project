@@ -14,7 +14,7 @@
     - Power BI - Dashboard preparation
 
 ## Images
-    ![Alt text](./Vaccination_analysis/Page1.PNG)
+    ![Alt text](DS_Projects/Vaccination_analysis/Page1.PNG)
     <img src="Page2.PNG" alt="Alt text" width="300"/>
     
 # Hi, I'm Udit Pragadeesh! 👋
