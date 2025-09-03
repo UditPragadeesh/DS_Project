@@ -14,10 +14,10 @@
     - Power BI - Dashboard preparation
 
 ## Images
-    ![Page1](Page1.PNG)
-    ![Page1](./Page1.PNG)
-    ![Page1](DS_Project/Vaccination_analysis/Page1.PNG)
-    <img src="DS_Project/Vaccination_analysis/Page1.PNG" alt="Alt text" width="300"/>
+![Page1](Page1.PNG)
+![Page1](./Page1.PNG)
+![Page1](DS_Project/Vaccination_analysis/Page1.PNG)
+<img src="DS_Project/Vaccination_analysis/Page1.PNG" alt="Alt text" width="300"/>
     
 # Hi, I'm Udit Pragadeesh! 👋
 
