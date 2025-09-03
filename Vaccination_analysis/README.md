@@ -14,8 +14,8 @@ Analysis of vaccination data to create modular dashboard using power BI to show 
 - Power BI - Dashboard preparation
 
 ## Images
-![Page1](Page1.PNG)
-![Page1](Page2.PNG)
+![Page1](DB_Page1.PNG)
+![Page1](DB_Page2.PNG)
     
 # Hi, I'm Udit Pragadeesh! 👋
 
