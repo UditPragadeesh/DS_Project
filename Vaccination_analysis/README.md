@@ -15,7 +15,7 @@
 
 ## Images
     ![Alt text](Page1.PNG)
-    ![Alt text](Page2.png)
+    <img src="Page2.PNG" alt="Alt text" width="300"/>
     
 # Hi, I'm Udit Pragadeesh! 👋
 
