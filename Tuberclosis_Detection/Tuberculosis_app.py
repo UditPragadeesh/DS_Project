@@ -5,8 +5,8 @@ from PIL import Image
 
 st.title('TUBERCULOSIS DETECTOR')
 
-model = torch.load('TB_Detector.sav',weights_only=False,map_location=torch.device('cpu'))
-transform = pkl.load(open('transform.pkl','rb'))
+model = torch.load(r'Tuberclosis_Detection/TB_Detector.sav',weights_only=False,map_location=torch.device('cpu'))
+transform = pkl.load(open(r'Tuberclosis_Detection/transform.pkl','rb'))
 path = st.file_uploader('Upload Scan Image',type=["jpg", "jpeg", "png"])
 if path is not None:
     image = Image.open(path)
@@ -41,3 +41,4 @@ if st.session_state.predb:
         st.error('Upload an Image')
         if st.button('OK'):
             st.session_state.predb=False
+
