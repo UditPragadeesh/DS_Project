@@ -8,7 +8,7 @@ st.title('Delivery Time Predictor')
 pred_type = st.sidebar.radio('Select type of prediction:',options=['Single Prediction','Multiple Prediction'])
 pipe = pkl.load(open(r'Amazon_Delivery_Time_Prediction/model.pkl','rb'))
 # ['Agent_Age', 'Agent_Rating', 'Weather', 'Traffic', 'Vehicle', 'Area','Category', 'Month', 'Order_Day', 'Order_Dayofweek', 'Order_hour','Pickup_Day', 'Pickup_Dayofweek', 'Pickup_hour', 'Distance']
-sample_df = pkl.load(open('ipex.sav','rb'))
+sample_df = pkl.load(open(r'Amazon_Delivery_Time_Prediction/ipex.sav','rb'))
 if pred_type == 'Single Prediction':
     st.markdown("\n <h1 style='font-size:20px;'> Agent Details\U0001F69A :</h1>",unsafe_allow_html=True)
     col1,col2,col3 = st.columns(3)
@@ -94,4 +94,5 @@ if pred_type == 'Multiple Prediction':
             st.error(f'Error reading file:{e}')
         if st.button('OK'):
             st.session_state.pred_bt2 = False
+
 
